@@ -1,0 +1,24 @@
+Mark down para github
+
+* Markdown para GitHub é uma linguagem de marcação leve e simples que permite formatar texto em arquivos como READMEs, comentários e 
+issues de repositórios. Utilizando uma sintaxe com caracteres como asteriscos, hifens e sinais de igual, 
+você pode criar títulos, texto em negrito ou itálico, listas,
+links, tabelas e até mesmo alertas, de forma legível e fácil de escrever, sem a necessidade de HTML complexo. 
+
+* Para que serve?
+Documentação: É amplamente usado para escrever arquivos README.md, que servem como documentação principal de um projeto no GitHub. 
+Comunicação: Permite formatar comentários em pull requests, issues e outras seções do GitHub, tornando a comunicação 
+mais clara e organizada. 
+Entrada de dados: Ajuda a formatar dados em tabelas, listas de tarefas, 
+e outros formatos estruturados, tornando as informações mais fáceis de ler e entender.
+
+*Exemplos de Sintaxe Markdown no GitHub: 
+Títulos: ## Título de nível 2
+Negrito: **texto em negrito**
+Itálico: *texto em itálico*
+Listas não ordenadas:
+- item 1
+- item 2
+Links: Texto do Link
+Tabelas: Uma sintaxe com pipes (|) para separar colunas e hifens (-) para separar o cabeçalho.
+Alertas: Blocos de citação especiais para destacar informações importantes, como > [!IMPORTANT].
