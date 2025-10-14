@@ -18,5 +18,3 @@ escreval("O valor em reais e de:  R$"+valorConvertido)
 
 
 fimalgoritmo
-
-
