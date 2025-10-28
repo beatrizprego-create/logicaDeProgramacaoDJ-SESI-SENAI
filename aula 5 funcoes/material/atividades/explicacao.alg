@@ -1,0 +1,55 @@
+algoritmo "Functions"
+
+
+var
+// funcao do cadastro
+  usuarioC, usuario : caractere
+  senhaS, senha : caractere
+  // funcao da loja
+  produtoNome : caractere
+  produtoValor : real 
+  // funcao do menu
+  opcao : inteiro 
+  logado : logico 
+
+inicio
+procedimento loja ()
+    inicio 
+        escreval ("Menu loja")
+        escreval ("I...")
+
+fimProcedimento 
+
+  // procedimento para efetur o login na aplicacao
+  // input - usuario,senha
+ // output - login true
+procedimento login ()
+   inicio 
+    usuarioC <- "Bia"
+    senhaS <- "123"
+    logado <- falso 
+
+    
+
+    enquanto ( logado = falso) faca
+     leia (usuario)
+     leia (senha)
+
+        se (usuario = usuarioC) e (senha = senhaC) entao
+        limpatela
+        escreval ("Login efetuado com sucesso!")
+        logado <- verdadeiro
+        loja()
+
+        senao
+        limpatela
+        escreval ("usuario ou senha incorretos")
+
+        fimSe 
+    fimenquanto 
+fimProcedimento 
+
+login ()
+
+
+fimalgoritmo

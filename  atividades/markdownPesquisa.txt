@@ -1,0 +1,27 @@
+Pesquisa Markdown
+
+O que é Markdown?
+Markdown é uma linguagem de marcação leve e simples, criada para facilitar a formatação de textos na web. Ela permite que você escreva documentos utilizando uma sintaxe fácil de aprender e que pode ser convertida em HTML ou outros formatos de maneira rápida.
+Para que serve o Markdown?
+O principal objetivo do Markdown é simplificar a criação de textos formatados, como artigos, documentação, posts de blog, README em projetos de programação, entre outros. Ele é amplamente usado em plataformas como GitHub, Reddit e Stack Overflow.
+
+Principais características do Markdown
+Fácil de aprender: Usa símbolos simples, como asteriscos (*) para negrito e itálico, hashtags (#) para títulos, e hífens (-) para listas.
+Legibilidade: O texto em Markdown é legível mesmo sem conversão, diferente do HTML que é mais pesado e difícil de ler.
+Versatilidade: Pode ser convertido para HTML, PDF, DOCX, entre outros formatos.
+Compatibilidade: Muitas ferramentas e editores suportam Markdown, como VSCode, Typora, Obsidian, e plataformas online.
+Exemplo básico de Markdown
+# Título Principal
+
+## Subtítulo
+
+Texto em **negrito** e *itálico*.
+
+- Item 1
+- Item 2
+- Item 
+
+[Link para o Google](https://www.google.com)
+
+Por que usar Markdown
+Markdown é ideal para quem precisa escrever textos formatados com rapidez e sem complicação, especialmente para desenvolvedores, escritores e profissionais que trabalham com conteúdo digital.
